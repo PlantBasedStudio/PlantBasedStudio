@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je m'appelle Damien ! Aka PlantBasedStudio ici</h1>
 <h3 align="center">Développeur web et accessoirement de jeux sur mon temps libre !</h3>
 
-- 🔭 Je travaille actuellement à **remplir mon propre portfolio**
+- 🔭 Je travaille actuellement à **remplir mon propre portfolio** (j'ai prévu d'upload plusieurs sites très bientôt)
 
 - 🌱 Je prévois d'apprendre un tas de choses bientôt comme : **Vue.js, React.js, Godot 4, PHP et Symfony**
 
