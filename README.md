@@ -7,6 +7,8 @@
 
 - 👯 Je collabore en ce moment sur un projet commun : [The Burtonesque Museum](https://github.com/PlantBasedStudio/BurtonesqueMuseum)
 
+- 🤝 J'ai mis en place un projet Open-Source : [Guess the Country](https://github.com/PlantBasedStudio/GuessTheCountryGame)
+
 - 🤝 J'aimerais avoir de l'aide pour **trouver un stage dans les Hauts-de-france**
 
 - 📫 Vous pouvez me joindre à cette adresse : **plantbasedstudiodev@gmail.com**
