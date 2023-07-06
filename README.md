@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement à **remplir mon propre portfolio** (j'ai prévu d'upload plusieurs sites très bientôt)
 
-- 🌱 Je prévois d'apprendre un tas de choses bientôt comme : **Vue.js, React.js, Godot 4, PHP et Symfony**
+- 🌱 Je prévois d'apprendre un tas de choses bientôt comme : **Vue.js, React.js, Godot 4 et Symfony**
 
 - 👯 Je collabore en ce moment sur un projet commun : [The Burtonesque Museum](https://github.com/PlantBasedStudio/BurtonesqueMuseum)
 
