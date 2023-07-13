@@ -7,6 +7,8 @@
 
 - 👯 Je collabore en ce moment sur un projet commun : [The Burtonesque Museum](https://github.com/PlantBasedStudio/TheBurtonesqueMuseum) Au moins une a deux fois par semaine en PHP
 
+- 👯 Avec ma team (les poulpy's DEV) on est en train de commencer un projet permettant de nous présenter ou je tiens le rôle de SCRUM Master. J'y effectue des code reviews, et du support sur le workflow Git : [Le lien ici](https://github.com/Johan-Lhuile/PoulpysDev)
+
 - 🤝 J'ai mis en place un projet Open-Source : [Guess the Country](https://github.com/PlantBasedStudio/GuessTheCountryGame) Je travaille dessus pendant mon temps libre en apprenant à maitriser React.js
 
 - 🧑‍💼 Je travaille en ce moment sur un petit projet en PHP pour apprendre à maîtriser le Back-end d'un site e-commerce. [Projet_log](https://github.com/PlantBasedStudio/projet_log)
