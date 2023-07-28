@@ -3,6 +3,8 @@
 
 - 🔭 Je travaille actuellement à **remplir mon propre portfolio** (j'ai prévu d'upload plusieurs sites très bientôt)
 
+- 🚀 J'ai mis en place un dépôt ou je poste des Cours de programmation que j'ai moi-même rédigé : [Mes cours](https://github.com/PlantBasedStudio/CoursPerso)
+
 - 🌱 Je prévois d'apprendre un tas de choses bientôt comme : **React.JS et Symfony**
 
 - 👯 Je collabore en ce moment sur un projet commun : [The Burtonesque Museum](https://github.com/PlantBasedStudio/TheBurtonesqueMuseum) Au moins une a deux fois par semaine en PHP.
