@@ -3,17 +3,17 @@
 
 - 🔭 Je travaille actuellement à **remplir mon propre portfolio** (j'ai prévu d'upload plusieurs sites très bientôt)
 
-- 🚀 J'ai mis en place un dépôt ou je poste des Cours de programmation que j'ai moi-même rédigé : [Mes cours](https://github.com/PlantBasedStudio/CoursPerso)
+- 🚀 J'ai mis en place un dépôt ou je poste des Cours de programmation que j'ai moi-même rédigé (Orienté Back-end principalement) : [Mes cours](https://github.com/PlantBasedStudio/CoursPerso)
 
-- 🌱 Je prévois d'apprendre un tas de choses bientôt comme : **React.JS et Symfony**
+- 🌱 Je suis en train de me perfectionner en PHP/Symfony. J'aimerais apprendre React.js par la suite
 
-- 👯 Je collabore en ce moment sur un projet commun : [The Burtonesque Museum](https://github.com/PlantBasedStudio/TheBurtonesqueMuseum) Au moins une a deux fois par semaine en PHP.
+- 👯 Je collabore en ce moment sur un projet commun : [The Burtonesque Museum](https://github.com/PlantBasedStudio/TheBurtonesqueMuseum)
 
 - 👯 Avec ma team (les poulpy's DEV) on fait projet permettant de nous présenter ou je tiens le rôle de SCRUM Master. J'y effectue des code reviews, et du support sur le workflow Git : [Le lien ici](https://github.com/Johan-Lhuile/PoulpysDev)
 
-- 🤝 J'ai mis en place un projet Open-Source : [Guess the Country](https://github.com/PlantBasedStudio/GuessTheCountryGame) Je vais travailler dessus pendant le mois d'août pour apprendre React.JS
+- 🤝 J'ai mis en place un projet Open-Source : [Guess the Country](https://github.com/PlantBasedStudio/GuessTheCountryGame)
 
-- 🧑‍💼 J'ai construit les bases d'un site e-commerce en full PHP sans framework. Je compte le mettre à jour petit à petit. [Projet_log](https://github.com/PlantBasedStudio/projet_log)
+- 🧑‍💼 J'ai construit les bases d'un site e-commerce en full PHP sans framework. Il peut s'étendre à l'infini et je m'en sert pour montrer l'étendu des mes compétences : [Projet_log](https://github.com/PlantBasedStudio/projet_log)
 
 - 🤝 J'ai trouvé un stage du 28 août au 24 novembre mais j'aimerais trouver aussi une alternance pour 2024 car j'envisage d'approfondir mes études pour un niveau bac +3/4 en PHP Symfony.
 
