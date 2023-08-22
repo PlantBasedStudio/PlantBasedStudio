@@ -7,13 +7,11 @@
 
 - 🌱 Je suis en train de me perfectionner en PHP/Symfony. J'aimerais apprendre React.js par la suite
 
-- 👯 Je collabore en ce moment sur un projet commun : [The Burtonesque Museum](https://github.com/PlantBasedStudio/TheBurtonesqueMuseum)
+- 👯 Je collabore en ce moment sur un projet commun : [BibliotheKa](https://github.com/PlantBasedStudio/BibliotheKa)
 
-- 👯 Avec ma team (les poulpy's DEV) on fait projet permettant de nous présenter ou je tiens le rôle de SCRUM Master. J'y effectue des code reviews, et du support sur le workflow Git : [Le lien ici](https://github.com/Johan-Lhuile/PoulpysDev)
+- 👯 Avec ma team (les poulpy's DEV) on fait un projet permettant de nous présenter ou je tiens le rôle de SCRUM Master. J'y effectue des code reviews, et du support sur le workflow Git : [Le lien ici](https://github.com/Johan-Lhuile/PoulpysDev)
 
 - 🤝 J'ai mis en place un projet Open-Source : [Guess the Country](https://github.com/PlantBasedStudio/GuessTheCountryGame)
-
-- 🧑‍💼 J'ai construit les bases d'un site e-commerce en full PHP sans framework. Il peut s'étendre à l'infini et je m'en sert pour montrer l'étendu des mes compétences : [Projet_log](https://github.com/PlantBasedStudio/projet_log)
 
 - 🤝 J'ai trouvé un stage du 28 août au 24 novembre mais j'aimerais trouver aussi une alternance pour 2024 car j'envisage d'approfondir mes études pour un niveau bac +3/4 en PHP Symfony.
 
