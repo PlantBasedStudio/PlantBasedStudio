@@ -1,19 +1,17 @@
 <h1 align="center">Salut 👋, Je m'appelle Damien ! Aka PlantBasedStudio ici</h1>
-<h3 align="center">Développeur web et accessoirement de jeux sur mon temps libre !</h3>
+<h3 align="center">Développeur web orienté back-end et accessoirement développeur de jeux sur mon temps libre ! (C'est même par là que j'ai commencé et j'ai 2 ans d'expérience !)</h3>
 
-- 🔭 Je travaille actuellement à **remplir mon propre portfolio** (j'ai prévu d'upload plusieurs sites très bientôt)
+- 🔭 Je travaille actuellement sur un site web pour un client. C'est un projet de site vitrine avec un espace administration. (Je donnerai + de détails sur celui-ci plus tard)
 
-- 🚀 J'ai mis en place un dépôt ou je poste des Cours de programmation que j'ai moi-même rédigé (Orienté Back-end principalement) : [Mes cours](https://github.com/PlantBasedStudio/CoursPerso)
+- 🚀 J'ai mis en place un dépôt ou je poste régulièrement des Cours de programmation que j'ai moi-même rédigé (Orienté Back-end principalement) : [Mes cours](https://github.com/PlantBasedStudio/CoursPerso)
 
-- 🌱 Je suis en train de me perfectionner en PHP/Symfony. J'aimerais apprendre React.js par la suite
+- 🌱 Je suis en train de me perfectionner en PHP/Symfony. J'aimerais apprendre React.js par la suite.
 
-- 👯 Je collabore en ce moment sur un projet commun : [BibliotheKa](https://github.com/PlantBasedStudio/BibliotheKa)
+- 👯 J'ai collaboré sur un projet commun orienté back-end : [BibliotheKa](https://github.com/PlantBasedStudio/BibliotheKa).
 
-- 👯 Avec ma team (les poulpy's DEV) on fait un projet permettant de nous présenter ou je tiens le rôle de SCRUM Master. J'y effectue des code reviews, et du support sur le workflow Git : [Le lien ici](https://github.com/Johan-Lhuile/PoulpysDev)
+- 🤝 J'ai mis en place un projet Open-Source : [Guess the Country](https://github.com/PlantBasedStudio/GuessTheCountryGame). L'objectif était simplement d'apprendre à utiliser une API en JS.
 
-- 🤝 J'ai mis en place un projet Open-Source : [Guess the Country](https://github.com/PlantBasedStudio/GuessTheCountryGame)
-
-- 🤝 J'ai trouvé un stage du 28 août au 24 novembre mais j'aimerais trouver aussi une alternance pour 2024 car j'envisage d'approfondir mes études pour un niveau bac +3/4 en PHP Symfony.
+- 🤝 Je suis à la recherche d'une entreprise pour début 2024 pour occuper le poste d'alternant en PHP/Symfony (Niveau de la formation bac +3, bac + 4).
 
 - 📫 Vous pouvez me joindre à cette adresse : **plantbasedstudiodev@gmail.com**
 
