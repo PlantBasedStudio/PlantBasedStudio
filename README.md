@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je m'appelle Damien ! Aka PlantBasedStudio ici</h1>
 <h3 align="center">Développeur web orienté back-end et accessoirement développeur de jeux sur mon temps libre ! (C'est même par là que j'ai commencé et j'ai 2 ans d'expérience !)</h3>
 
-- 🔭 Je travaille actuellement sur un site web pour un client. C'est un projet de site vitrine avec un espace administration. (Je donnerai + de détails sur celui-ci plus tard)
+- 🔭 Je travaille actuellement sur un site web pour un client. C'est un projet de site vitrine avec un espace administration. (Je donnerai + de détails sur celui-ci plus tard).
 
 - 🚀 J'ai mis en place un dépôt ou je poste régulièrement des Cours de programmation que j'ai moi-même rédigé (Orienté Back-end principalement) : [Mes cours](https://github.com/PlantBasedStudio/CoursPerso)
 
