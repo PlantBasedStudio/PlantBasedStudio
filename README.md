@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je m'appelle Damien ! Aka PlantBasedStudio ici</h1>
 <h3 align="center">Développeur web orienté back-end et accessoirement développeur de jeux sur mon temps libre.</h3>
 
-- 🔭 J'ai délivré récemment un projet de site vitre administrable. Il a été codé en PHP pur avec le modèle MVC : [kristofdetailing.fr](https://kristofdetailing.fr)
+- 🔭 J'ai délivré récemment un projet de site vitrine administrable. Il a été codé en PHP pur avec le modèle MVC : [kristofdetailing.fr](https://kristofdetailing.fr)
 
 - 🚀 J'ai mis en place un dépôt ou je poste régulièrement des Cours de programmation que j'ai moi-même rédigé (Orienté Back-end principalement) : [Mes cours](https://github.com/PlantBasedStudio/CoursPerso)
 
