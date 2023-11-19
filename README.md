@@ -11,7 +11,7 @@
 
 - 🤝 J'ai mis en place un projet Open-Source : [Guess the Country](https://github.com/PlantBasedStudio/GuessTheCountryGame). L'objectif était simplement d'apprendre à utiliser une API en JS.
 
-- 🤝 Je suis à la recherche d'une entreprise pour début 2024 pour occuper le poste d'alternant en PHP/Symfony (Niveau de la formation bac +3, bac + 4).
+- 🤝 Je suis à la recherche d'une entreprise pour début 2024 pour occuper le poste d'alternant en développement Backend (Niveau de la formation bac +3, bac + 4). La partie administration et gestion des sites webs et/ou de l'entreprise sont des aspects qui m'intéressent particulièrement. J'ai actuellement une préférence pour PHP/Symfony étant déjà initié à cette pratique, mais j'ai des bases en C# et je maitrise un langage dérivé du python, le GDScript.
 
 - 📫 Vous pouvez me joindre à cette adresse : **plantbasedstudiodev@gmail.com**
 
