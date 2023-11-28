@@ -5,7 +5,7 @@
 
 - 🚀 J'ai mis en place un dépôt ou je poste régulièrement des Cours de programmation que j'ai moi-même rédigé (Orienté Back-end principalement) : [Mes cours](https://github.com/PlantBasedStudio/CoursPerso)
 
-- 🌱 Je suis en train de me perfectionner en PHP/Symfony. J'aimerais apprendre React.js par la suite.
+- 🌱 Je suis en train de me perfectionner en PHP et J'apprends le langage Python.
 
 - 👯 J'ai collaboré sur un projet commun orienté back-end : [BibliotheKa](https://github.com/PlantBasedStudio/BibliotheKa).
 
