@@ -11,7 +11,7 @@
 
 - 🤝 J'ai mis en place un projet Open-Source : [Guess the Country](https://github.com/PlantBasedStudio/GuessTheCountryGame). L'objectif était simplement d'apprendre à utiliser une API en JS.
 
-- 🤝 J'ai obtenu une alternance au sein d'une entreprise très intéressante ou j'aurais le rôle de développeur back-end (avec du devops et des tâches variées autour de ça) principalement en Python. J'obtiendrai alors le titre de Concepteur/développeur d'applications au niveau bac +4.
+- 🤝 Je suis alternant au sein de l'entreprise Moka tourisme ou j'exerce le rôle de Développeur Back-end. J'obtiendrai en 2026 le titre de Concepteur/développeur d'applications au niveau bac +4.
 
 - 📫 Vous pouvez me joindre à cette adresse : **plantbasedstudiodev@gmail.com**
 
