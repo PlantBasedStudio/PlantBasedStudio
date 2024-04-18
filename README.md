@@ -1,15 +1,7 @@
 <h1 align="center">Salut 👋, Je m'appelle Damien ! Aka PlantBasedStudio ici</h1>
-<h3 align="center">Développeur web orienté back-end et accessoirement développeur de jeux sur mon temps libre.</h3>
+<h3 align="center">Développeur Python sur Odoo et accessoirement développeur de jeux par loisir.</h3>
 
-- 🔭 J'ai délivré récemment un projet de site vitrine administrable. Il a été codé en PHP pur avec le modèle MVC : [kristofdetailing.fr](https://kristofdetailing.fr)
-
-- 🚀 J'ai mis en place un dépôt ou je poste régulièrement des Cours de programmation que j'ai moi-même rédigé (Orienté Back-end principalement) : [Mes cours](https://github.com/PlantBasedStudio/CoursPerso)
-
-- 🌱 Je suis en train de me perfectionner en PHP et J'apprends le langage Python.
-
-- 👯 J'ai collaboré sur un projet commun orienté back-end : [BibliotheKa](https://github.com/PlantBasedStudio/BibliotheKa).
-
-- 🤝 J'ai mis en place un projet Open-Source : [Guess the Country](https://github.com/PlantBasedStudio/GuessTheCountryGame). L'objectif était simplement d'apprendre à utiliser une API en JS.
+- 🔭 J'aspire à devenir un gros développeur Python et oeuvrer dans la communauté Odoo OCA.
 
 - 🤝 Je suis alternant au sein de l'entreprise Moka tourisme ou j'exerce le rôle de Développeur Back-end. J'obtiendrai en 2026 le titre de Concepteur/développeur d'applications au niveau bac +4.
 
