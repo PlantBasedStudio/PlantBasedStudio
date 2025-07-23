@@ -1,9 +1,11 @@
 <h1 align="center">Salut 👋, Je m'appelle Damien ! Aka PlantBasedStudio ici</h1>
-<h3 align="center">Développeur Python sur Odoo et accessoirement développeur de jeux par loisir.</h3>
+<h3 align="center">Développeur Python sur Odoo.</h3>
 
-- 🔭 J'aspire à devenir un gros développeur Python et oeuvrer dans la communauté Odoo OCA.
+- 🔭 J'aspire à devenir un meilleur développeur Python et oeuvrer dans la communauté Odoo OCA.
 
-- 🤝 Je suis alternant au sein de l'entreprise Moka ou j'exerce le rôle de Développeur Back-end. J'obtiendrai en 2026 le titre de Concepteur/développeur d'applications au niveau bac +4.
+- 🤝 Je suis développeur au sein de l'entreprise Moka ou j'exerce le rôle de Développeur Back-end/Odoo.
+
+- Je suis aussi développeur de jeux vidéos sur mon temps libre. Je code principalement sur Godot et j'ai une passion pour le game design et le pixel art.
 
 - 📫 Vous pouvez me joindre à cette adresse : **horvat.damien@gmail.com**
 
