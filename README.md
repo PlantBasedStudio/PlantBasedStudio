@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je m'appelle Damien ! Aka PlantBasedStudio ici</h1>
-<h3 align="center">Développeur Python sur Odoo.</h3>
+<h3 align="center">Développeur Odoo</h3>
 
-- 🔭 J'aspire à devenir un meilleur développeur Python et oeuvrer dans la communauté Odoo OCA.
+- 🔭 J'aspire à devenir un meilleur développeur chaque jour. Pour ça, j'apprends en continu dans tout les domaines.
 
 - 🤝 Je suis développeur au sein de l'entreprise Moka ou j'exerce le rôle de Développeur Back-end/Odoo.
 
