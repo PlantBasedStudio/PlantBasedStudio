@@ -1,28 +1,100 @@
-<h1 align="center">Salut 👋, Je m'appelle Damien ! Aka PlantBasedStudio ici</h1>
-<h3 align="center">Développeur Odoo</h3>
+<h1 align="center">👋 Salut, je m'appelle Damien ! Aka PlantBasedStudio ici !</h1>
+<h3 align="center">Développeur Odoo | Créateur de modules Odoo indépendant</h3>
 
-- 🔭 J'aspire à devenir un meilleur développeur chaque jour. Pour ça, j'apprends en continu dans tout les domaines.
-
-- 🤝 Je suis développeur au sein de l'entreprise Moka ou j'exerce le rôle de Développeur Back-end/Odoo.
-
-- Je suis aussi développeur de jeux vidéos sur mon temps libre. Je code principalement sur Godot et j'ai une passion pour le game design et le pixel art.
-
-- 📫 Vous pouvez me joindre à cette adresse : **horvat.damien@gmail.com**
-
-<h3 align="left">Mes réseaux :</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/damien-horvat-158352275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/damien-horvat-158352275/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucnq0vdg7sottpcb91cy-uvq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnq0vdg7sottpcb91cy-uvq" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Développeur+Odoo;Créateur+de+modules+Odoo;Spécialisé+Odoo+18+🚀" alt="Typing SVG" />
 </p>
 
-</path>
-                <path d="M19,4 C20.1046,4 21,4.89543 21,6 L21,18 C21,19.1046 20.1046,20 19,20 L5,20 C3.89543,20 3,19.1046 3,18 L3,6 C3,4.89543 3.89543,4 5,4 L19,4 Z M19,10 L5,10 L5,17 C5,17.51285 5.38604429,17.9355092 5.88337975,17.9932725 L6,18 L18,18 C18.51285,18 18.9355092,17.613973 18.9932725,17.1166239 L19,17 L19,10 Z M6,6 C5.44772,6 5,6.44772 5,7 C5,7.55228 5.44772,8 6,8 C6.55228,8 7,7.55228 7,7 C7,6.44772 6.55228,6 6,6 Z M9,6 C8.44772,6 8,6.44772 8,7 C8,7.55228 8.44772,8 9,8 C9.55228,8 10,7.55228 10,7 C10,6.44772 9.55228,6 9,6 Z M12,6 C11.4477,6 11,6.44772 11,7 C11,7.55228 11.4477,8 12,8 C12.5523,8 13,7.55228 13,7 C13,6.44772 12.5523,6 12,6 Z" id="形状" fill="#09244B">
+---
 
-</path>
-            </g>
-        </g>
-    </g>
-</svg></a>
+### 🧑‍💻 À propos de moi
 
+- 🔧 **Développeur Odoo** en entreprise, spécialisé dans la billetterie et dans la migration de base de données
+- 🏪 **Créateur indépendant** de modules sur l'**Odoo App Store**
+- 🆕 Focus sur **Odoo 18** et ses nouvelles fonctionnalités
+- 🎮 Ancien **Game Developer** - J'ai créé des jeux disponibles sur itch.io
+- 📚 En apprentissage constant : Je pense que la connaissance et le travail sont les moteurs de la vie. Je m'intéresse à beaucoup de domaines.
+- 🌱 Actuellement en train d'approfondir mes connaissances en IA et d'apprendre Magento
+
+#### 💼 Compétences professionnelles
+- 🔒 **Vigilant sur le RGPD** et la protection des données personnelles
+- 🔄 Adepte des **méthodologies Agile** (Scrum, Kanban)
+- 🗣️ À l'aise à l'oral pour **former et échanger avec les clients**
+- 👥 Expérience en **relation client** et **transfert de connaissances**
+
+#### 🎨 Au-delà du code
+- 🎸 Guitariste 
+- 🌍 Apprentissage des langues (polyglotte en devenir)
+- 🎮 Game design et pixel art
+- 📖 Curieux insatiable - Toujours un livre/cours en cours
+
+---
+
+### 🛠️ Stack Technique
+
+**Développement Odoo**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+**Outils & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 Statistiques GitHub
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlantBasedStudio&theme=tokyonight" alt="Streak Stats" />
+</div>
+
+---
+
+### 🎯 Projets actuels
+
+- 🏢 Développement de modules Odoo en entreprise
+- 🛍️ Création et publication de modules sur l'**Odoo App Store**
+- 📚 Exploration approfondie d'**Odoo 18** et ses nouveautés, hâte de découvrir la v20 !
+- 💡 Développement de solutions innovantes pour améliorer l'expérience utilisateur Odoo
+
+---
+
+### 🌐 Retrouvez-moi ici
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/damien-horvat-158352275/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@plantbasedstudio5213" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="[Itch.io](https://plantbasedstudio.itch.io/)" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
+  </a>
+  <a href="mailto:horvat.damien@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 💡 Mes valeurs
+
+> *"Ouvrez des écoles, vous fermerez des prisons."* – Victor Hugo
+
+Je crois fermement au pouvoir de l'éducation et du partage des connaissances. 
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PlantBasedStudio&color=blueviolet&style=flat-square&label=Visiteurs" alt="Profile views" />
+</p>
 
