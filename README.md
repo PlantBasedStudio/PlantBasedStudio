@@ -1,5 +1,6 @@
 <h1 align="center">👋 Salut, je m'appelle Damien ! Aka PlantBasedStudio ici !</h1>
-<h3 align="center">Développeur Odoo | Créateur de modules Odoo indépendant</h3>
+<h3 align="center">Développeur Odoo pour OpenITech</h3>
+<h4>Ma nouvelle entreprise code sur GitLab, je ne suis donc pas extrêmement actif ici !</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Développeur+Odoo;Créateur+de+modules+Odoo;Spécialisé+Odoo+18+🚀" alt="Typing SVG" />
@@ -14,7 +15,7 @@
 - 🆕 Focus sur **Odoo 18** et ses nouvelles fonctionnalités
 - 🎮 Ancien **Game Developer** - J'ai créé des jeux disponibles sur itch.io
 - 📚 En apprentissage constant : Je pense que la connaissance et le travail sont les moteurs de la vie. Je m'intéresse à beaucoup de domaines.
-- 🌱 Actuellement en train d'approfondir mes connaissances en IA et d'apprendre Magento
+- 🌱 Actuellement en train d'apprendre à coder comme dans ma nouvelle entreprise 
 
 #### 💼 Compétences professionnelles
 - 🔒 **Vigilant sur le RGPD** et la protection des données personnelles
