@@ -11,11 +11,11 @@
 ### 🧑‍💻 À propos de moi
 
 - 🔧 **Développeur Odoo** en entreprise, spécialisé dans la billetterie et dans la migration de base de données
-- 🏪 **Créateur indépendant** de modules sur l'**Odoo App Store**
+- 🏪 **Créateur** de modules sur l'**Odoo App Store**
 - 🆕 Focus sur **Odoo 18** et ses nouvelles fonctionnalités
 - 🎮 Ancien **Game Developer** - J'ai créé des jeux disponibles sur itch.io
 - 📚 En apprentissage constant : Je pense que la connaissance et le travail sont les moteurs de la vie. Je m'intéresse à beaucoup de domaines.
-- 🌱 Actuellement en train d'apprendre à coder comme dans ma nouvelle entreprise 
+- 🌱 Actuellement en train d'apprendre la mécanique (par exemple)
 
 #### 💼 Compétences professionnelles
 - 🔒 **Vigilant sur le RGPD** et la protection des données personnelles
